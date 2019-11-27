@@ -2,8 +2,7 @@
 server:
      servlet:
           context-path: /Microservices
-          
- # Spring Data JPA configuration...
+# Spring Data JPA configuration...
 spring:
   jpa:
     hibernate:
