@@ -4,7 +4,7 @@ server:
           context-path: /Microservices
           
  # Spring Data JPA configuration...
- spring:
+spring:
   jpa:
     hibernate:
       # To be updated in real production usage!
