@@ -1,0 +1,11 @@
+#Springboot Config...
+server:
+   servlet:
+        context-path: /Microservices
+ # Spring Data JPA configuration
+spring:
+  jpa:
+    hibernate:
+      # To be updated in real production usage!
+      ddl-auto: update
+    show-sql: true
